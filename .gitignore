@@ -1,0 +1,8 @@
+build
+*.jpg
+lib/extra/detector/lib/libdetector.so
+lib/extra/detector/lib/yolov5s_fp16_b1.engine
+lib/extra/tracker/lib/libtracker.so
+lib/extra/detector/lib/mine_car.engine
+lib/extra/detector/lib/mine_car.wts
+data/test1.mp4
