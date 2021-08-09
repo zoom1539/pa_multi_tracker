@@ -1,2 +1,2 @@
-# pa_detect_tracker
+# pa_multi_tracker
 application algorithm: track for multi class
